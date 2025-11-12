@@ -1,0 +1,23 @@
+[
+  {
+    "idUsuario": 1,
+    "nombreUsuario": "admin",
+    "contrasena": "admin123",
+    "nombreCompleto": "Diego Montesdeoca",
+    "rol": "Jefatura Financiera"
+  },
+  {
+    "idUsuario": 2,
+    "nombreUsuario": "asistente",
+    "contrasena": "asistente123",
+    "nombreCompleto": "María López",
+    "rol": "Asistente Contable"
+  },
+  {
+    "idUsuario": 3,
+    "nombreUsuario": "carlos",
+    "contrasena": "carlos123",
+    "nombreCompleto": "Carlos Rodríguez",
+    "rol": "Asistente Contable"
+  }
+]

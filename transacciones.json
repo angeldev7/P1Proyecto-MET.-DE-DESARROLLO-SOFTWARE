@@ -1,0 +1,28 @@
+[
+  {
+    "idTransaccion": 3,
+    "fecha": "2025-11-08",
+    "tipoDocumento": "Factura",
+    "proveedorCliente": "Juan Perez",
+    "monto": 115.0,
+    "cuentaContable": "2101.01",
+    "numeroDocumento": "FAC-001",
+    "estado": "Aprobado",
+    "idUsuarioRegistro": 1,
+    "subtotal": 100.0,
+    "iva": 15.0
+  },
+  {
+    "idTransaccion": 4,
+    "fecha": "2025-11-08",
+    "tipoDocumento": "Factura",
+    "proveedorCliente": "Pedro Gimenez",
+    "monto": 1380.0,
+    "cuentaContable": "232123",
+    "numeroDocumento": "FAC-002",
+    "estado": "Aprobado",
+    "idUsuarioRegistro": 1,
+    "subtotal": 1200.0,
+    "iva": 180.0
+  }
+]

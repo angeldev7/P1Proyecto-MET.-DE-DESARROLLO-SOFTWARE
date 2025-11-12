@@ -1,0 +1,135 @@
+[
+  {
+    "idRegistro": 1,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:13:21.511615",
+    "accion": "LOGIN",
+    "descripcion": "Inicio de sesión exitoso"
+  },
+  {
+    "idRegistro": 2,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:15:56.430656900",
+    "accion": "REGISTRAR_FACTURA",
+    "descripcion": "Factura FAC-001 por $115,00"
+  },
+  {
+    "idRegistro": 3,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:30:43.588218300",
+    "accion": "LOGIN",
+    "descripcion": "Inicio de sesión exitoso"
+  },
+  {
+    "idRegistro": 4,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:31:59.602265600",
+    "accion": "REGISTRAR_FACTURA",
+    "descripcion": "Factura FAC-002 por $1380,00"
+  },
+  {
+    "idRegistro": 5,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:32:45.708181",
+    "accion": "CALCULAR_RETENCION_IVA",
+    "descripcion": "Retención IVA año 2025: $0.0"
+  },
+  {
+    "idRegistro": 6,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:32:55.958914500",
+    "accion": "VER_ESTADISTICAS",
+    "descripcion": "Consulta de estadísticas generales"
+  },
+  {
+    "idRegistro": 7,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:33:31.753407400",
+    "accion": "CERRAR_SESION",
+    "descripcion": "Usuario cerró sesión"
+  },
+  {
+    "idRegistro": 8,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:33:31.754418700",
+    "accion": "LOGOUT",
+    "descripcion": "Cierre de sesión"
+  },
+  {
+    "idRegistro": 9,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:33:38.117933900",
+    "accion": "LOGIN",
+    "descripcion": "Inicio de sesión exitoso"
+  },
+  {
+    "idRegistro": 10,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:33:42.877001700",
+    "accion": "CERRAR_SESION",
+    "descripcion": "Usuario cerró sesión"
+  },
+  {
+    "idRegistro": 11,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:33:42.879033800",
+    "accion": "LOGOUT",
+    "descripcion": "Cierre de sesión"
+  },
+  {
+    "idRegistro": 12,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:37:12.565802500",
+    "accion": "LOGIN",
+    "descripcion": "Inicio de sesión exitoso"
+  },
+  {
+    "idRegistro": 13,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:37:22.420403800",
+    "accion": "APROBAR_TRANSACCION",
+    "descripcion": "Transacción #4 aprobada"
+  },
+  {
+    "idRegistro": 14,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:37:28.249690400",
+    "accion": "APROBAR_TRANSACCION",
+    "descripcion": "Transacción #3 aprobada"
+  },
+  {
+    "idRegistro": 15,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:37:33.824057",
+    "accion": "CALCULAR_RETENCION_IVA",
+    "descripcion": "Retención IVA año 2025: $0.0"
+  },
+  {
+    "idRegistro": 16,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:37:54.011595300",
+    "accion": "GENERAR_RESPALDO",
+    "descripcion": "Respaldo año 2025"
+  },
+  {
+    "idRegistro": 17,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:39:36.630280700",
+    "accion": "CERRAR_SESION",
+    "descripcion": "Usuario cerró sesión"
+  },
+  {
+    "idRegistro": 18,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:39:36.631787100",
+    "accion": "LOGOUT",
+    "descripcion": "Cierre de sesión"
+  },
+  {
+    "idRegistro": 19,
+    "idUsuario": 1,
+    "fechaHora": "2025-11-08T23:48:39.792241100",
+    "accion": "LOGIN",
+    "descripcion": "Inicio de sesión exitoso"
+  }
+]
